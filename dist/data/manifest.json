@@ -1,0 +1,11 @@
+{
+	"committee": "pcinfo.json",
+	"sessions": [
+		"order10.json",
+		"order20.json",
+		"order30.json",
+		"order40.json",
+		"order50.json",
+		"order60.json"
+	]
+}

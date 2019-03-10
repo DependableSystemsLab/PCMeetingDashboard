@@ -1,0 +1,543 @@
+[{
+    "pid": 265,
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "quinn.murphy@example.org": "institution",
+        "oliver.chang@example.org": "institution",
+        "ivan.kuhic@example.org": "institution",
+        "tanya.rice@example.org": "institution"
+    }
+}, {
+    "pid": 500,
+    "title": "Quisque dignissim enim malesuada urna lobortis, eu vestibulum purus dignissim",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    }
+}, {
+    "pid": 450,
+    "title": "Donec efficitur justo ac tortor commodo dapibus",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "greg.kuvalis@example.org": "institution",
+        "bob.marvin@example.org": "institution",
+        "quinn.murphy@example.org": "institution"
+    }
+}, {
+    "pid": 239,
+    "title": "Proin congue mauris vel pretium commodo",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "xavi.hernandez@example.org": "institution",
+        "alice.schumm@example.org": "institution"
+    }
+}, {
+    "pid": 164,
+    "title": "Duis fermentum sapien ac lorem convallis consequat",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "mark.ray@example.org": "institution",
+        "oliver.chang@example.org": "institution"
+    }
+}, {
+    "pid": 424,
+    "title": "Maecenas sit amet justo pharetra, pulvinar mi ut, vehicula ipsum",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "victor.wilson@example.org": "institution"
+    }
+}, {
+    "pid": 338,
+    "title": "Aenean non augue sit amet orci laoreet dapibus at sit amet felis",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "diana.boyle@example.org": "institution",
+        "tanya.rice@example.org": "institution"
+    }
+}, {
+    "pid": 100,
+    "title": "Donec tristique augue a nisi pulvinar finibus",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "zainab.chowdury@example.org": "institution"
+    }
+}, {
+    "pid": 431,
+    "title": "Donec condimentum purus ac ligula tristique, ac accumsan lectus rutrum",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "bob.marvin@example.org": "institution",
+        "ivan.kuhic@example.org": "institution"
+    }
+}, {
+    "pid": 379,
+    "title": "Quisque in ex molestie erat pellentesque posuere",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    }
+}, {
+    "pid": 353,
+    "title": "Praesent sagittis arcu hendrerit, tincidunt ante vel, varius velit",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "zainab.chowdury@example.org": "institution",
+        "frank.robel@example.org": "institution"
+    }
+}, {
+    "pid": 39,
+    "title": "Proin sagittis tortor non magna tincidunt, eu consequat est venenatis",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "sean.cook@example.org": "institution"
+    }
+}, {
+    "pid": 483,
+    "title": "Suspendisse nec metus non augue ullamcorper lobortis eu volutpat velit",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    }
+}, {
+    "pid": 495,
+    "title": "Nam eu lectus placerat, ultrices mauris a, ultrices est",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "diana.boyle@example.org": "institution",
+        "zainab.chowdury@example.org": "institution"
+    }
+}, {
+    "pid": 397,
+    "title": "Curabitur a lacus mattis, suscipit erat et, auctor augue",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "alice.schumm@example.org": "institution",
+        "mark.ray@example.org": "institution",
+        "natasha.canales@example.org": "institution",
+        "oliver.chang@example.org": "institution"
+    }
+}, {
+    "pid": 359,
+    "title": "Vivamus non urna ut nunc laoreet pretium",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    }
+}, {
+    "pid": 49,
+    "title": "Duis eget risus scelerisque, luctus tortor nec, porttitor velit",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "emily.bauch@example.org": "institution"
+    }
+}, {
+    "pid": 163,
+    "title": "Morbi sed dolor porta, viverra augue sed, fermentum turpis",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    }
+}, {
+    "pid": 297,
+    "title": "Phasellus congue nisi ac massa lobortis, eget egestas metus auctor",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    },
+    "pc_conflicts": {
+        "frank.robel@example.org": "institution",
+        "jane.doe@example.org": "institution",
+        "quinn.murphy@example.org": "institution"
+    }
+}, {
+    "pid": 44,
+    "title": "Sed a diam at quam sodales sagittis",
+    "status": "submitted",
+    "submitted_at": 1543076321,
+    "authors": [{
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }, {
+        "email": "john.doe@example.org",
+        "first": "John.",
+        "last": "Doe",
+        "affiliation": "Example University",
+        "contact": true
+    }],
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet augue et molestie finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut at tortor vel sapien blandit lobortis nec sed urna. Vivamus congue finibus tellus, non aliquam nisl pretium quis. Praesent nec elementum nibh. Maecenas a ex sagittis sapien pretium molestie. Praesent blandit luctus pretium. In ut accumsan tellus.",
+    "topics": {
+        "Networks": true,
+        "Software": true
+    }
+}]
