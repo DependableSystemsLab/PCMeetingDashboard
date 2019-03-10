@@ -1,6 +1,6 @@
 # Program Committee Meeting Dashboard
 
-This web-app is used during a Program Committee meeting to keep track of papers being reviewed, and it is meant to be displayed on a screen through a projector. This app should be used exclusively by the PC chair, as the app will contain confidential information.
+This web-app is used during a Program Committee meeting to keep track of papers being reviewed, and it is meant to be displayed on a screen using a projector. This app should be used exclusively by the PC chair, as the app will contain confidential information.
 
 It provides the following features:
 
@@ -36,16 +36,20 @@ After updating the contents in the `data` directory, simply serve the `dist` dir
 
 ### Security Warning
 
-This web-app has **absolutely no security mechanisms** in place, therefore **must be used as a local web page** by serving it at `localhost` or `127.0.0.1`. Do not even serve it in a Local Area Network as other people in the network will be able to access the page.
+This web-app has **absolutely no security mechanisms** in place, therefore **must be used as a local web page** by serving it at `localhost` or `127.0.0.1`. **Do not even serve it in a Local Area Network** as other people in the network will be able to access the page.
 
-**It is extremely important** to follow this practice, as all the data and code for this web-app is on the client-side, and it contains sensitive information.
+**It is extremely important** to follow this practice, as *all the data and code for this web-app is on the client-side*, and it contains sensitive information.
 
 Additionally, the decision data are saved using `window.localStorage`, which means that the data persists in the disk. Make sure to clear the data after the PC meeting is over, to prevent any leaks when using a shared PC.
 
 
 ## How to customize the app
 
-This web-app is a basic React App. The project is organized as the following:
+This section is relevant only if you want to customize the application. If you simply want to use it, serving the `dist` directory as a local webpage should be enough.
+
+This web-app is a basic React App. You will need to install the dependencies before you can get into development. With a working Node.js (v10+) installation, first install the dependencies with the command `npm install`.
+
+The project is organized as the following:
 
 ```
 /data/
