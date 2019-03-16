@@ -1,7 +1,8 @@
 import React from 'react';
 import {hot} from 'react-hot-loader';
 import { Select, Button, Header, Statistic, Container, Input,
-	Divider, Segment, Grid, Icon, List } from 'semantic-ui-react';
+	Image, Divider, Segment, Grid, Icon, List } from 'semantic-ui-react';
+import UBCLogo from './ubc-logo.jpg';
 
 function formatTime(ms){
 	return (ms<0?'-':'')+('00'+(Math.floor(Math.abs(ms)/3600000)%24)).slice(-2)+':'+('00'+(Math.floor(Math.abs(ms)/60000)%3600)).slice(-2)+':'+('00'+(Math.floor(Math.abs(ms)/1000)%60)).slice(-2)
@@ -280,10 +281,22 @@ class Dashboard extends React.Component {
 		return (
 			<Container>
 				<div>
-					<Button onClick={(e)=>this.reset()} icon='home'></Button>
-					Minutes per paper = <Input type='number' min={1} value={this.state.min_per_paper} onChange={(e)=>(this.setState({ min_per_paper: e.target.value }))}/>
+					<Grid>
+						<Grid.Column width={8}>
+							<Button onClick={(e)=>this.reset()} icon='home'></Button>
+							Minutes per paper = <Input type='number' min={1} value={this.state.min_per_paper} onChange={(e)=>(this.setState({ min_per_paper: e.target.value }))}/>
+						</Grid.Column>
+						<Grid.Column width={8} textAlign='right'>
+							<Image src={UBCLogo} size='mini' floated='right'/>
+							<p>Maintainer: {'kumseok'+'@'+'ece.ubc.ca'}</p>
+						</Grid.Column>
+					</Grid>
 				</div>
 				{view}
+				<div style={{ textAlign: 'center', marginTop: '2em' }}>
+					<a href='https://github.com/DependableSystemsLab/PCMeetingDashboard' target='_blank'><Icon name='github'/> DependableSystemsLab/PCMeetingDashboard</a>
+					<p>Copyright &#169; 2019 Kumseok Jung. All rights reserved.</p>
+				</div>
 			</Container>
 		)
 	}
