@@ -8,6 +8,8 @@ It provides the following features:
 * Keep track of the time
 * Keep track of the decision
 
+You can [check out the demo here](https://dependablesystemslab.github.io/PCMeetingDashboard).
+
 ![screenshot](screenshot.png)
 
 
