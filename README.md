@@ -15,7 +15,7 @@ You can [check out the demo here](https://dependablesystemslab.github.io/PCMeeti
 
 ## Quick Start
 
-This repository contains the complete web application and the Express.js web server to serve the application. To quickly start the application, simply run the following commands from the root of the repository:
+This repository contains the complete web application and the Express.js web server to serve the application. To quickly start the application, simply run the following commands from the root of the repository. You will need a Node.js runtime:
 
 1. To install the dependencies (e.g., Express.js): `npm install`
 2. To serve the application: `npm start`
