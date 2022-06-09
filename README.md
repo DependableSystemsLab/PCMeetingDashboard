@@ -1,6 +1,6 @@
 # Program Committee Meeting Dashboard
 
-This web-app is used during a Program Committee meeting to keep track of papers being reviewed, and it is meant to be displayed on a screen using a projector. This app should be used exclusively by the PC chair, as the app will contain confidential information.
+This web-app is used during a Program Committee meeting to keep track of papers being reviewed, and **it is meant to be displayed on a screen using a projector**. This app **should be used exclusively by the PC chair**, as the app will **contain confidential information**.
 
 It provides the following features:
 

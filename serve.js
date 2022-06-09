@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 /* Public App */
-app.use('/', express.static('dist'));
+app.use('/', express.static('src'));
 server.listen(PORT, HOST, function(){
 	console.log(">>> Starting web server on "+HOST+":"+PORT);
 });
