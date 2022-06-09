@@ -164,7 +164,7 @@ Vue.component('dashboard', {
 					<span>Maintainer: kumseok@ece.ubc.ca</span>
 				</div>
 				<div class="navbar-item">
-					<img src="/assets/ubc-logo.jpg">
+					<img src="assets/ubc-logo.jpg">
 				</div>
 			</div>
 		</nav>
